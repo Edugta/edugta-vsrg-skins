@@ -13,6 +13,6 @@ NOTE: PLEASE, back up your original playerConfig.lua, or you WILL lose your curr
 
 Enjoy!
 
-# edugta!mania & 7K skin
+# edugta!mania 4K & edugta!mania 5-6-7-8-9K skin
 
 Will upload later.
