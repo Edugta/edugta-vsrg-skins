@@ -15,4 +15,4 @@ Enjoy!
 
 # edugta!mania 4K & edugta!mania 5-6-7-8-9K skin
 
-Will upload later.
+Extract folder(s) to osu!\Skins\
